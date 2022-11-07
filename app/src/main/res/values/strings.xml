@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Top Universities</string>
+    <string name="accreditation">Accreditation</string>
+    <string name="location">Location</string>
+    <string name="about">About</string>
+    <string name="desc_about">Muhammad baqir syafi’ adalah nama asli dari developer aplikasi ini. Lahir pada tanggal 30 April 2006, di Demak provinsi Jawa Tengah. Developer merupakan anak ke 3 dari 4 bersaudara. Developer melanjutkan pendidikannya di salah satu cabang dari SMK IDN Boarding School jonggol, yang mana Developer masuk di salah satu cabangnya yang  terletak di kota Karanganyar, karsidenan Solo  provinsi Jawa Tengah. Di jenjang SMK nya, ia memilih Rekayasa Perangkat Lunak sebagai jurusan yang ia tekuni saat ini.
+</string>
+    <string name="developer_name">Muhammad Baqir Syafi\'</string>
+    <string name="github_name">bqirr01@gmail.com</string>
+</resources>

@@ -13,4 +13,4 @@
 ### AboutUs Screen
 <img src="https://user-images.githubusercontent.com/88423102/200498250-39a24dd8-448b-425c-a5f3-b2e2aa66bb3a.png" width="300">
 
-- Submission Dicoding Android Pemula -  
+~ Submission Dicoding Android Pemula ~  

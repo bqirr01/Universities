@@ -10,3 +10,6 @@
 ### Detail Screen
 <img src="https://user-images.githubusercontent.com/88423102/200497801-9355a83c-3dfe-42c9-bb78-cdbec657b829.png" width="300">
 
+### AboutUs Screen
+<img src="https://user-images.githubusercontent.com/88423102/200498250-39a24dd8-448b-425c-a5f3-b2e2aa66bb3a.png" width="300">
+
